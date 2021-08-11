@@ -9,4 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/ErwtideasScene.unity
     guid: 340e73d7bdcd086469f343fa45168915
   m_configObjects:
+    MockARFoundation.MockARFoundationSetting: {fileID: 11400000, guid: f24f6c970d55b57498283180b7ba3a4c, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 51da219ff4bfd8c4e80edf06245ab580, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f01cd58df6ca84a4e8515eaac42205a1, type: 2}
