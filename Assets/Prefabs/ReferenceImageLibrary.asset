@@ -16,12 +16,12 @@ MonoBehaviour:
   m_GuidHigh: 2179670912462557612
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5497219661625109544
-      m_GuidHigh: 13970755648514150571
+      m_GuidLow: 5292862428936076783
+      m_GuidHigh: 5616637777223222683
     m_SerializedTextureGuid:
-      m_GuidLow: 3514146033632612162
-      m_GuidHigh: 10569233689452269913
+      m_GuidLow: 843411661676233483
+      m_GuidHigh: 2822826220477104424
     m_Size: {x: 0, y: 0}
     m_SpecifySize: 0
-    m_Name: clockCroped
-    m_Texture: {fileID: 2800000, guid: e7850f42c13230c459d1e4d70a76ad92, type: 3}
+    m_Name: clockfruits
+    m_Texture: {fileID: 2800000, guid: 0da2430b66700bb4284132d67db12c27, type: 3}
