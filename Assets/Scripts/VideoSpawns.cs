@@ -27,8 +27,9 @@ public class VideoSpawns : MonoBehaviour
             Destroy(line_Inst);
             Vector3 lineposition = new Vector3(transform.position.x,transform.position.y,transform.position.z +0.12f);
             //Debug.Log("x"+transform.position.x+"y"+transform.position.y+ "z"+transform.position.z);
+            Debug.Log("HEEERRRREEEEE");
             //Instantiate(line, new Vector3(0.003900268f, -0.032f, 0.199f),Quaternion.Euler(0,0,0));
-            line_Inst=Instantiate(line, lineposition, Quaternion.Euler(0, 0, 0));
+            line_Inst =Instantiate(line, lineposition, Quaternion.Euler(0, 0, 0));
             //line.SetActive(true);
             //line2.SetActive(false);
         }
