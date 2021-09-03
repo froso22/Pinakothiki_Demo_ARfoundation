@@ -32,7 +32,8 @@ MonoBehaviour:
   m_RequiresSettingsUpdate: 0
   m_AutomaticLoading: 0
   m_AutomaticRunning: 0
-  m_Loaders: []
+  m_Loaders:
+  - {fileID: 11400000, guid: b776103ca16ea8c4bbdcdd612679d73b, type: 2}
 --- !u!114 &-2297131355017745713
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -77,9 +78,10 @@ MonoBehaviour:
   m_Name: iPhone Providers
   m_EditorClassIdentifier: 
   m_RequiresSettingsUpdate: 0
-  m_AutomaticLoading: 0
-  m_AutomaticRunning: 0
-  m_Loaders: []
+  m_AutomaticLoading: 1
+  m_AutomaticRunning: 1
+  m_Loaders:
+  - {fileID: 11400000, guid: b776103ca16ea8c4bbdcdd612679d73b, type: 2}
 --- !u!114 &4104413807283693016
 MonoBehaviour:
   m_ObjectHideFlags: 0

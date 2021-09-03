@@ -15,4 +15,5 @@ EditorBuildSettings:
     MockARFoundation.MockARFoundationSetting: {fileID: 11400000, guid: f24f6c970d55b57498283180b7ba3a4c, type: 2}
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e4f33117850ccd34f916e04d0cd4fe33, type: 2}
     UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 51da219ff4bfd8c4e80edf06245ab580, type: 2}
+    com.needle.xr.management.arsimulation_loader: {fileID: 11400000, guid: c86b27b3d3a5f994c8298182af5af444, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f01cd58df6ca84a4e8515eaac42205a1, type: 2}
